@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lore195
 - 👀 I’m interested in Testing and programming with python
-- 🌱 I’m currently learning C nad python
+- 🌱 I’m currently learning C and python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lore.penah@gmail.com
 
